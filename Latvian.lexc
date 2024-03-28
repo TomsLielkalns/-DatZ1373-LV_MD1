@@ -28,7 +28,7 @@ LEXICON N3dekl
 +N+Pl+Loc:^os #;
 
 LEXICON N4dekl					
-+N+Sg+Nom:^a  #;
++N+Sg+Nom:^a #;
 +N+Sg+Gen:^as #;
 +N+Sg+Dat:^ai #;
 +N+Sg+Acc:^u #;
